@@ -1,0 +1,6 @@
+// Input car type
+var carMakeandModel = "Honda Civic";
+
+// Change the street name
+var streetName = "Mulberry Street";
+
