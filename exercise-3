@@ -1,0 +1,15 @@
+// a:  STRING
+var result = "The cat jumped over the moon";
+
+// b:  NUMBER
+var result = 55 - 27;
+
+// c:  BOOLEAN
+var result = 75 > 55;
+
+// d:  UNDEFINED
+var data;
+var result = data;
+
+// e:  NUMBER
+var result = -6544.432;
